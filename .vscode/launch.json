@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "person1",
+            "request": "launch",
+            "mainClass": "person1",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "person",
+            "request": "launch",
+            "mainClass": "person",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "demo1",
+            "request": "launch",
+            "mainClass": "demo1",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "myAnimalabstract",
+            "request": "launch",
+            "mainClass": "myAnimalabstract",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "dog",
+            "request": "launch",
+            "mainClass": "dog",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "myAnimal",
+            "request": "launch",
+            "mainClass": "myAnimal",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "app-test_440666bb"
+        },
+        {
+            "type": "java",
             "name": "test7",
             "request": "launch",
             "mainClass": "test7",
